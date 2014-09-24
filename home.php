@@ -77,7 +77,7 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Bienvenido: <?php $usuario ?></span>
+                        <span class="name">Bienvenido<?php $usuario ?></span>
                         <hr class="star-light">
                         <span class="skills">Esta es nuestra pagina de home!</span>
                     </div>
